@@ -24,7 +24,7 @@ UI 部分是参考[别人做好的头像示例][4]。
 
 如需了解更多有关 [image_filter][3] 的使用示例，可参考我的 [wiki][5]。
  
-读者实际上也可以尝试使用 [ngx_small_light][6] 第三方模块来生成头像（图片缩略图），更多信息可查询[图片缩略图][7]。
+读者实际上也可以尝试使用 [ngx_small_light][6] 第三方模块来生成头像，更多信息可查询[图片缩略图][7]。
 
 
 [1]: https://github.com/
@@ -32,4 +32,5 @@ UI 部分是参考[别人做好的头像示例][4]。
 [3]: http://nginx.org/en/docs/http/ngx_http_image_filter_module.html
 [4]: https://zhuanlan.zhihu.com/p/27866168
 [5]: https://github.com/aisuhua/wiki/tree/master/thumb2
-[6]: https://github.com/aisuhua/wiki/tree/master/thumb
+[6]: https://github.com/cubicdaiya/ngx_small_light
+[7]: https://github.com/aisuhua/wiki/tree/master/thumb
